@@ -1,5 +1,5 @@
 <h1 align="center"">
-    <img alt="Logotipo do Timer Pomodoro - Programodor" src="./.git/imgs/pomodoro-logo.svg" width="80%">
+    <img alt="Logotipo do Timer Pomodoro - Programodor" src="./.github/imgs/pomodoro-logo.svg" width="80%">
 </h1>
 
 <h3 align="center">Seu timer Pomodoro preferido para seus momentos de focar nos 
