@@ -2,7 +2,7 @@
     <img alt="Logotipo Timer Pomodoro - Programodoro" src="./.github/imgs/pomodoro-logo.svg" width="80%">
 </h1>
 
-<h3 align="center">Your favorite pomodoro timer for your hours of focus on studies and programming work.</h3>
+<h3 align="center">Your favorite pomodoro timer to focus on your programming studies and work.</h3>
 
 <br>
 
