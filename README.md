@@ -1,9 +1,8 @@
 <h1 align="center"">
-    <img alt="Logotipo do Timer Pomodoro - Programodor" src="./.github/imgs/pomodoro-logo.svg" width="80%">
+    <img alt="Logotipo Timer Pomodoro - Programodoro" src="./.github/imgs/pomodoro-logo.svg" width="80%">
 </h1>
 
-<h3 align="center">Seu timer Pomodoro preferido para seus momentos de focar nos 
-estudos e trabalhos em programação.</h3>
+<h3 align="center">Your favorite pomodoro timer for your hours of focus on studies and programming work.</h3>
 
 <br>
 
@@ -19,7 +18,7 @@ estudos e trabalhos em programação.</h3>
 <p align="center">
  <a href="#bulb-overview">Overview</a>  
  • <a href="#hammer-features">Features</a>  
- • <a href="#pencil-licence">Licence</a> 
+ • <a href="#pencil-license">License</a> 
  • <a href="#wave-author">Autor</a>
 </p>
 
@@ -64,4 +63,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ---
 
-Developed by Vitória Lopes :wave: [Entre em contato!](https://www.linkedin.com/in/vilopesp/)
+Developed by Vitória Lopes :wave: [Contact me!](https://www.linkedin.com/in/vilopesp/)
